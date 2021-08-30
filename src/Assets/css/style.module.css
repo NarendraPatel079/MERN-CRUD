@@ -1,0 +1,13 @@
+.tableDiv {
+    margin: 20px;
+}
+.table {
+    background: #fff;
+    overflow: auto;
+    position: relative;
+}
+table th {
+    background: #000 !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
